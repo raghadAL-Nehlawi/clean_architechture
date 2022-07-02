@@ -1,16 +1,6 @@
 # clean_architechture
 
-A new Flutter project.
+Clean Architecture is the blueprint for a modular system, which strictly follows the design principle called separation of concerns. More specifically, this style of architecture focuses on dividing software into layers, to simplify the development and maintenance of the system itself. When layers are well-separated, individual pieces can be reused, as well as developed and updated independently.
 
-## Getting Started
+Clean Architecture is one of the most powerful solutions to build clean apps with independent data layers that multiple teams can work on. The resulting app would also be scalable, readable, testable, and can be easily maintained at any time.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
